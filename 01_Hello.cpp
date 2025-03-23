@@ -3,7 +3,7 @@
 #include<iostream>
 // # is a pre-processor and iostream is a file wherer input and output functions are defined.
 using namespace std;
-// by above statement we are using every thing in standard namespace scope.
+// by above statement we are using every name for variables or anything in standard namespace scope.
 
 namespace mynamespace {
     class myclass{
